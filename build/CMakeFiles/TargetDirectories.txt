@@ -1,0 +1,3 @@
+/mnt/c/Users/nikit/Desktop/lab1/build/CMakeFiles/lab1.dir
+/mnt/c/Users/nikit/Desktop/lab1/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/nikit/Desktop/lab1/build/CMakeFiles/rebuild_cache.dir
